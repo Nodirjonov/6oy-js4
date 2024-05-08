@@ -1,0 +1,20 @@
+h1{
+    color: red;
+}
+#card div{
+    background-color: cornflowerblue;
+    width: 300px;
+    height: 300px;
+    border-radius: 20px;
+   text-align: center;
+   margin: 10px;
+    
+}
+#card{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+    margin: 20px;
+   
+}
